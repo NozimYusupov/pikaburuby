@@ -14,6 +14,12 @@ gem "puma", ">= 5.0"
 
 gem 'sass-rails'
 
+gem 'haml-rails'
+
+gem 'bootstrap', '~> 4.4.1'
+
+gem 'jquery-rails'
+
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
