@@ -22,6 +22,7 @@ gem 'jquery-rails'
 
 gem 'font-awesome-sass'
 
+gem 'simple_form'
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails"
 
