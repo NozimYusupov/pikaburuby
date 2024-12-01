@@ -7,3 +7,6 @@ import "jquery_ujs"
 import "popper"
 import "bootstrap"
 
+
+import "trix"
+import "@rails/actiontext"

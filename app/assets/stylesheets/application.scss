@@ -2,3 +2,8 @@
 
 /* @import "font-awesome-sprockets"; */
 @import "font-awesome";
+@import "./actiontext.css";
+
+trix-editor.form-control {
+  height: auto;
+}
