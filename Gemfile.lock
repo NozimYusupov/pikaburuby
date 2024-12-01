@@ -114,6 +114,8 @@ GEM
     execjs (2.10.0)
     ffi (1.17.0)
     ffi (1.17.0-x86_64-linux-gnu)
+    font-awesome-sass (6.5.2)
+      sassc (~> 2.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
     haml (6.3.0)
@@ -283,6 +285,7 @@ DEPENDENCIES
   bootstrap (~> 4.4.1)
   capybara
   debug
+  font-awesome-sass
   haml-rails
   importmap-rails
   jbuilder
